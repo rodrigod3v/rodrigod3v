@@ -25,8 +25,4 @@
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
-
-
-  
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d53032&height=120&section=footer"/>
