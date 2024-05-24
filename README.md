@@ -2,7 +2,7 @@
 
 ### Social:
 <div> 
-<p align="left"><a href="https://www.linkedin.com/in/rodrigo-orlando-57291b175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p> 
+<p align="left"><a href="https://www.linkedin.com/in/rodrigod3v/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p> 
 </div>
 
 ### Main skills:
